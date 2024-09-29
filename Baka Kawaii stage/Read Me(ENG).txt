@@ -1,0 +1,27 @@
+バカ可愛いステージ/Baka Kawaii Stage
+
+This stage is a 3D version of the illustration of the Iなんです(I am you) in Project Sekai 2DMV.
+Using Ray-MMD or other shaders is recommended cause it looks ugly without extra lightings.
+
+Online read me has priority so check the online version first.
+
+
+<Forbidden matters>
+1. Don't use in game. (e.g. VRChat)
+2. Don't use for commercial, religious, political purpose.
+3. Don't make R-18, R-18G contents with my model.
+4. Don't redistribute the model regardless of edit.
+5. Don't upload my model in public format that others can use (e.g. VR world, Niconi Solid)
+
+
+You can use my stage in other 3DCG software (like b3d, c4d, unity, etc) for cloth simulation video.
+Editing is OK, but don't redistribute it.
+Always credit me (NNGN).
+
+I'll not take responsibility for any problems caused by using my data. Use at your own risk.
+If you have any questions please tell me.
+Thanks for reading.
+
+
+2023.02.19 NNGN
+Twitter : @MMD_NNGN
